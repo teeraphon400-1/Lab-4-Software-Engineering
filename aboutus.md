@@ -13,4 +13,4 @@
 ![](https://raw.githubusercontent.com/Modelerconso/Lab-4-Software-Engineering/master/media/profile.lersan.png)
 
 1. นายธีรภัทร์ บริบูรณ์ 633020399-0 sec.2 [temteerapat](https://github.com/temteerapat)
-![](https://raw.githubusercontent.com/Modelerconso/Lab-4-Software-Engineering/master/media/profile.teerapat.png)
+![](https://github.com/Modelerconso/Lab-4-Software-Engineering/blob/master/media/profile.teerapat.jpg)
