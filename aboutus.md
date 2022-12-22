@@ -6,8 +6,8 @@
 1. นายศักดิ์สิทธิ์ ศิริศักดา 633020419-0 sec.2 [athenexfolk](https://github.com/athenexfolk)
 ![](https://raw.githubusercontent.com/Modelerconso/Lab-4-Software-Engineering/master/media/profile.saksit.jpg)
 
-1. ชื่อ รหัส sec.2 [GitHubUsername](https://github.com/GitHubUsername)
-![](picurl)
+1. นายณัฐนันท์ วรรณภา 633020036-6 sec.2 [Modelconso](https://github.com/Modelerconso)
+![](https://raw.githubusercontent.com/Modelerconso/Lab-4-Software-Engineering/master/media/profile.natthanan.jpg)
 
 1. ชื่อ รหัส sec.2 [GitHubUsername](https://github.com/GitHubUsername)
 ![](picurl)
