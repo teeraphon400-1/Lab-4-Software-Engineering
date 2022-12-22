@@ -12,5 +12,5 @@
 1. นายเลอสรร กองพันธ์ 633020041-3 sec.2 [mikaellansaladonekisnaares](https://github.com/GitHubUsername)
 ![](https://raw.githubusercontent.com/Modelerconso/Lab-4-Software-Engineering/master/media/profile.lersan.png)
 
-1. ชื่อ รหัส sec.2 [GitHubUsername](https://github.com/GitHubUsername)
-![](picurl)
+1. นายธีรภัทร์ บริบูรณ์ 633020399-0 sec.2 [GitHubUsername](https://github.com/temteerapat)
+![]((https://raw.githubusercontent.com/Modelerconso/Lab-4-Software-Engineering/master/media/profile.teerapat.png)
